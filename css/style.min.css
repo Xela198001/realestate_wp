@@ -548,13 +548,13 @@ body {
 
 .reviews__btn-prev {
   width: 75px;
-  height: 30px;
+  height: 35px;
   background: url('../images/arrow-left.svg') no-repeat center;
 }
 
 .reviews__btn-next {
   width: 75px;
-  height: 30px;
+  height: 35px;
   background: url('../images/arrow-right.svg') no-repeat center;
 }
 
